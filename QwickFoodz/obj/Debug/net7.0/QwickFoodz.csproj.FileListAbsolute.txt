@@ -1,0 +1,15 @@
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\bin\Debug\net7.0\QwickFoodz.exe
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\bin\Debug\net7.0\QwickFoodz.deps.json
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\bin\Debug\net7.0\QwickFoodz.runtimeconfig.json
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\bin\Debug\net7.0\QwickFoodz.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\bin\Debug\net7.0\QwickFoodz.pdb
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\obj\Debug\net7.0\QwickFoodz.csproj.AssemblyReference.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\obj\Debug\net7.0\QwickFoodz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\obj\Debug\net7.0\QwickFoodz.AssemblyInfoInputs.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\obj\Debug\net7.0\QwickFoodz.AssemblyInfo.cs
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\obj\Debug\net7.0\QwickFoodz.csproj.CoreCompileInputs.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\obj\Debug\net7.0\QwickFoodz.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\obj\Debug\net7.0\refint\QwickFoodz.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\obj\Debug\net7.0\QwickFoodz.pdb
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\obj\Debug\net7.0\QwickFoodz.genruntimeconfig.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\QwickFoodz\obj\Debug\net7.0\ref\QwickFoodz.dll
