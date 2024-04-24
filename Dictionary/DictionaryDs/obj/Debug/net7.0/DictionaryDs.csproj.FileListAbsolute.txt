@@ -1,0 +1,15 @@
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\bin\Debug\net7.0\DictionaryDs.exe
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\bin\Debug\net7.0\DictionaryDs.deps.json
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\bin\Debug\net7.0\DictionaryDs.runtimeconfig.json
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\bin\Debug\net7.0\DictionaryDs.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\bin\Debug\net7.0\DictionaryDs.pdb
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\obj\Debug\net7.0\DictionaryDs.csproj.AssemblyReference.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\obj\Debug\net7.0\DictionaryDs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\obj\Debug\net7.0\DictionaryDs.AssemblyInfoInputs.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\obj\Debug\net7.0\DictionaryDs.AssemblyInfo.cs
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\obj\Debug\net7.0\DictionaryDs.csproj.CoreCompileInputs.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\obj\Debug\net7.0\DictionaryDs.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\obj\Debug\net7.0\refint\DictionaryDs.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\obj\Debug\net7.0\DictionaryDs.pdb
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\obj\Debug\net7.0\DictionaryDs.genruntimeconfig.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\Datastructures\Dictionary\DictionaryDs\obj\Debug\net7.0\ref\DictionaryDs.dll

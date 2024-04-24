@@ -1,0 +1,15 @@
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\bin\Debug\net7.0\GroceryShop.exe
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\bin\Debug\net7.0\GroceryShop.deps.json
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\bin\Debug\net7.0\GroceryShop.runtimeconfig.json
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\bin\Debug\net7.0\GroceryShop.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\bin\Debug\net7.0\GroceryShop.pdb
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\obj\Debug\net7.0\GroceryShop.csproj.AssemblyReference.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\obj\Debug\net7.0\GroceryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\obj\Debug\net7.0\GroceryShop.AssemblyInfoInputs.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\obj\Debug\net7.0\GroceryShop.AssemblyInfo.cs
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\obj\Debug\net7.0\GroceryShop.csproj.CoreCompileInputs.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\obj\Debug\net7.0\GroceryShop.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\obj\Debug\net7.0\refint\GroceryShop.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\obj\Debug\net7.0\GroceryShop.pdb
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\obj\Debug\net7.0\GroceryShop.genruntimeconfig.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\GroceryShop\obj\Debug\net7.0\ref\GroceryShop.dll
